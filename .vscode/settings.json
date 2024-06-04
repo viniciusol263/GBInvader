@@ -2,6 +2,13 @@
     "files.associations": {
         "spriteplayership.h": "c",
         "gb.h": "c",
-        "time.h": "c"
+        "time.h": "c",
+        "stdlib.h": "c",
+        "bkgnormaldata.h": "c",
+        "graphics.h": "c",
+        "objectsfunc.h": "c",
+        "sound.h": "c",
+        "objects.h": "c",
+        "joycon.h": "c"
     }
 }
