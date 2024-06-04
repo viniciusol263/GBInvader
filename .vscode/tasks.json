@@ -7,7 +7,12 @@
             "label": "Run Game",
             "type": "shell",
             "command": "C:\\Users\\vinic\\Documents\\Programacao\\GameBoy\\BGB\\bgb.exe",
-            "args": ["${workspaceFolder}/build/HelloWorld.gb"],
+            "args": ["${workspaceFolder}/build/GBInvader.gb"],
+        },
+        {
+            "label": "Build Game",
+            "type": "shell",
+            "command": "git-bash -c \"make clean;make\"",
         }
     ]
 }
